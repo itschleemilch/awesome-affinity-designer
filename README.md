@@ -40,10 +40,28 @@ A curated list of awesome content for [Affinity Designer](https://affinity.serif
 * https://affinityspotlight.com/
 
 ## UI Kits
+
+### MacOS / iOS
+
+* [Apple Design Resources](https://developer.apple.com/design/resources/) - official Apple website with downloadable UI kits (use Photoshop files) 
+* [iOS 11 Design Resources](https://forum.affinity.serif.com/index.php?/topic/49978-ios-11-design-resources/)
+* [Apple San Francisco Font](https://developer.apple.com/fonts/) - for Windows users (open with 7-zip to install fonts)
+
+### Android
+
+* [Material Design](https://material.io/) - official Google website
 * [Material design asset pack](https://forum.affinity.serif.com/index.php?/topic/28635-material-design-asset-pack/) - controls for Android
+* [Android Robot Font](https://fonts.google.com/specimen/Roboto)
+
+### Windows
+
+* [Windows 10 Design](https://developer.microsoft.com/en-us/windows/apps/design) - Official Microsoft website
 * [AffinityDesignerUWPAssets](https://github.com/chrisg32/AffinityDesignerUWPAssets) -  controls for Windows
+* [Windows Segoe MDL2 Assets Icon Font](https://docs.microsoft.com/en-us/windows/uwp/design/style/segoe-ui-symbol-font) - icon list and download for Mac users
 
 ## Assets
+
+## Icon sets
 
 * [Icon Pack](https://forum.affinity.serif.com/index.php?/topic/29075-icon-pack/) - eleven icon sets in a bundle
 * [bigblue-design-icons](https://github.com/itschleemilch/bigblue-design-icons) - IBM Design icon set
