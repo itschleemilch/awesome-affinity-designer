@@ -14,7 +14,7 @@ A curated list of awesome content for [Affinity Designer](https://affinity.serif
     - [Learning](#learning)
 	- [Community](#community)
 	- [UI Kits](#ui-kits)
-	- [Assets](#assets)
+	- [Icon sets](#icon-sets)
 	- [Brushes](#brushes)
 	- [Color](#color)
 	- [Utilities](#utilities)
@@ -58,8 +58,6 @@ A curated list of awesome content for [Affinity Designer](https://affinity.serif
 * [Windows 10 Design](https://developer.microsoft.com/en-us/windows/apps/design) - Official Microsoft website
 * [AffinityDesignerUWPAssets](https://github.com/chrisg32/AffinityDesignerUWPAssets) -  controls for Windows
 * [Windows Segoe MDL2 Assets Icon Font](https://docs.microsoft.com/en-us/windows/uwp/design/style/segoe-ui-symbol-font) - icon list and download for Mac users
-
-## Assets
 
 ## Icon sets
 
