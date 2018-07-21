@@ -36,8 +36,9 @@ A curated list of awesome content for [Affinity Designer](https://affinity.serif
 
 ## Community
 
-* https://forum.affinity.serif.com/
-* https://affinityspotlight.com/
+* [Affinity Forum](https://forum.affinity.serif.com/) - official support forum
+* [Affinity Spotlight](https://affinityspotlight.com/) - official blog
+* [reddit r/Affinity](https://www.reddit.com/r/Affinity/) - small but up to date user group
 
 ## UI Kits
 
