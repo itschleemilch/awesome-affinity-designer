@@ -2,9 +2,10 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome content for [Affinity Designer](https://affinity.serif.com/de/designer/).
+**A curated list of awesome content for [Affinity Designer](https://affinity.serif.com/de/designer/).**  
+*Note: This is not an official Affinity owned project. See disclaimer for details.*
 
-[Table of Contents](#contents) | [Contributing](CONTRIBUTING.md) | [Code Of Conduct](CONTRIBUTING.md) | [License](https://creativecommons.org/publicdomain/zero/1.0/)
+[Table of Contents](#contents) | [Contributing](CONTRIBUTING.md) | [Code Of Conduct](CONTRIBUTING.md) | [Disclaimer](DISCLAIMER.md) | [License](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
 
@@ -31,7 +32,7 @@ A curated list of awesome content for [Affinity Designer](https://affinity.serif
 
 ### Third party resources
 
-* [Affinity Designer - Schritt für Schritt](https://www.rheinwerk-verlag.de/affinity-designer_4221/) - an introduction in German, 285 pages.
+* [Affinity Designer - Schritt für Schritt](https://www.rheinwerk-verlag.de/affinity-designer_4221/) - introduction in German
 * [Affinity Tutorials](https://affinitytutorials.de/affinity-designer/) - tutorials in German
 
 ## Community
